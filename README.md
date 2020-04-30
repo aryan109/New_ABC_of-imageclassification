@@ -3,16 +3,16 @@ we claassify various fashion objects like Sneaker, 	Bag, T-shirt, etc according 
 
 This project will give you a clear insight that how basic image classification is done.
 
-##Quick start
+## Quick start
 You can get started quickly by opening the ipynb file directly in [Colab](https://colab.research.google.com/). 
 
-##Requirements
+## Requirements
 * TensorFlow
 * numpy
 * jupyter
   
 NOTE: All above requirements are already satisfied in Colab.
 
-##Local Setup
+## Local Setup
 For running in your local device you first of all need to have python(3.*) installed.
 then you have to install all above requirements then you are ready to run it.
